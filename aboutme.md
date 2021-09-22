@@ -16,6 +16,6 @@ subtitle: Work experience and education
 ## Education
 
 MS Program Evaluation and Data Analytics, Arizona State University
+Masters of Human Rights and Humanitarian Law, Viadrina University, Germany (Frankfurt Oder)
+BA International Affairs / Political Science
 
-Lean Six Sigma
-Certificate in Social Impact Metrics
