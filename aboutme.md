@@ -5,14 +5,13 @@ subtitle: Work experience and education
 ---
 
 ## Work experience
-My name is Alev Yildiz. I have a deep experience in the private and public sector leveraging data and analytics for operational improvements.
 
-- 8 years in ecommerce integrating BI into the end-to-end supply chain
-- Rebuilt global operations for a growing ecommerce company shipping 300k SKUs 
-- Integrated large-scale automation 
-- Created environmentally-friendly shipping options
-- Launched two websites from start-up
-- Currently lead a team of data scientists and analytics improving operations and outcomes for the University of Utah
+- Review and evaluate legislation and policies
+- Determine the benefits and drawbacks of existing policies
+- Propose suggestions to improve the effects of policies
+- Identify legal flaws in policies and recommend amendments
+- Edit and amend policy drafts as required
+- Liaise with stakeholders to determine needs and goals of policies
 
 ## Education
 
